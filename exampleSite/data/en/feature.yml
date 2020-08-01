@@ -14,10 +14,10 @@ feature:
     icon: ti-search
     content: Requests are constantly being accepted. So if you don't see something
       that you want, Ask away!
-  - title: SEO Optimized
-    icon: ti-stats-up
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+  - title: A Friendly Community
+    icon: ti-comments-smiley
+    content: Our group although might be small is made up of friends who share and
+      stay in touch with each other.
   - title: Easy Customization
     icon: ti-announcement
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
