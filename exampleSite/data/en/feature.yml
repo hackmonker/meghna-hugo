@@ -1,8 +1,8 @@
 ---
 feature:
   enable: true
-  image: https://media.gq.com/photos/5aeb3a11b7e4251df3b2326c/16:9/w_2560%2Cc_limit/Movies-On-Hulu-GQ-May-2018-050318.jpg
-  image_webp: images/about/about-business-man.webp
+  image: ''
+  image_webp: "/images/movies-on-hulu-gq-may-2018-050318.webp"
   title: We’re A Media Streaming Group
   content: ''
   feature_item:
