@@ -10,10 +10,10 @@ feature:
     icon: ti-folder
     content: Our Libraries are constantly increasing. So chances are you will easily
       get what you want to watch here.
-  - title: Easy Customization
-    icon: ti-panel
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+  - title: Easy Requests
+    icon: ti-search
+    content: Requests are constantly being accepted. So if you don't see something
+      that you want, Ask away!
   - title: SEO Optimized
     icon: ti-stats-up
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
