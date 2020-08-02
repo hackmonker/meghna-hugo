@@ -15,10 +15,10 @@ service:
     icon: ti-heart
     content: A wide collection of anime is also available for you and it keeps on
       growing!
-  - name: Graphic Design
-    icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - name: Music
+    icon: ti-music
+    content: Music is available in Complete FLAC quality for you to enjoy. Stream
+      ur favorite music in lossless format for the first time and don't look back.
   - name: Apps Development
     icon: ti-package
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
