@@ -23,7 +23,7 @@ service:
     icon: ti-headphone-alt
     content: Listen to your favorite books and even the authors themselves reading
       them. Can't see your favorite book? Ask away!
-  - name: Networking
-    icon: ti-pulse
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - name: Ebooks
+    icon: ti-book
+    content: Read and download all the books that was lying in ur reading list now
+      with a big library of ebooks available at ur fingertips.
