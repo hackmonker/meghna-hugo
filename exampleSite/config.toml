@@ -94,4 +94,4 @@ enable = true
 preloader = "/images/logo-2.png"
 [[params.social]]
 icon = "fab fa-discord"
-link = "Discord"
+link = "https://discord.gg/jgB58W3"
