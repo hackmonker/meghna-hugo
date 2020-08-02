@@ -22,11 +22,11 @@ weight = 2
 [[menu.main]]
 URL = "services"
 name = "service"
-weight = "1"
+weight = "2"
 [[menu.main]]
 URL = "portfolio"
 name = "Sites"
-weight = 3
+weight = "3"
 [[menu.main]]
 URL = "pricing"
 name = "pricing"
