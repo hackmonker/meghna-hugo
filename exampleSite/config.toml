@@ -25,7 +25,7 @@ name = "Offer"
 weight = 2
 [[menu.main]]
 URL = "portfolio"
-name = "portfolio"
+name = "Sites"
 weight = 3
 [[menu.main]]
 URL = "pricing"
