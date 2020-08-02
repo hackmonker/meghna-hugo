@@ -13,8 +13,8 @@ pricing:
     - 3 Requests per week.
     - Lower priority support
     button:
-      label: Signup
-      link: "#"
+      label: Contact Us
+      link: "#contact"
   - name: Gold
     price: "₹60"
     unit: month
