@@ -3,9 +3,9 @@ portfolio:
   enable: true
   title: Sites Available
   portfolio_item:
-  - name: Tag Design
+  - name: Stream
     image: images/portfolio/portfolio-2.jpg
     image_webp: images/portfolio/portfolio-2.webp
     categories: []
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    content: Stream Movies, Anime, Music, etc at a quality of your choice.
     link: "#"
