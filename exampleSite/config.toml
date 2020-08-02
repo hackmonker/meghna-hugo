@@ -42,7 +42,7 @@ weight = "5"
 [[menu.static]]
 URL = ""
 name = "hackmonker"
-weight = "7"
+weight = "6"
 [params]
 author = "hackmonker"
 description = "Responsive Multipurpose Parallax HTML5 Template"
