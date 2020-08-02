@@ -3,6 +3,14 @@ portfolio:
   enable: true
   title: Sites Available
   portfolio_item:
+  - name: Books
+    image: ''
+    image_webp: ''
+    categories:
+    - Sites
+    content: Read or download ebooks on the fly. Own a kindle? Send the books directly
+      to your kindle.
+    link: ''
   - name: Downloads
     image: ''
     image_webp: ''
