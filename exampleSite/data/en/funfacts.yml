@@ -4,9 +4,6 @@ funfacts:
   bg_image: images/backgrounds/bg-white-wall.jpg
   bg_image_webp: images/backgrounds/bg-white-wall.webp
   counter_item:
-  - title: Ebooks
-    icon: ti-book
-    count: "2000"
   - title: Movies
     icon: ti-archive
     count: "1000"
@@ -16,6 +13,9 @@ funfacts:
   - title: Music & Audiobooks
     icon: ti-headphone
     count: "130"
+  - title: Ebooks
+    icon: ti-book
+    count: "2000"
   - title: Happy Users
     icon: ti-face-smile
     count: "15"
