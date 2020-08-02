@@ -4,15 +4,18 @@ funfacts:
   bg_image: images/backgrounds/bg-white-wall.jpg
   bg_image_webp: images/backgrounds/bg-white-wall.webp
   counter_item:
-  - title: Music & Audiobooks
-    icon: ti-headphone
-    count: "130"
+  - title: Ebooks
+    icon: ti-book
+    count: ''
   - title: Movies
     icon: ti-archive
     count: "1000"
   - title: Shows
     icon: ti-desktop
     count: "150"
+  - title: Music & Audiobooks
+    icon: ti-headphone
+    count: "130"
   - title: Happy Users
     icon: ti-face-smile
     count: "15"
