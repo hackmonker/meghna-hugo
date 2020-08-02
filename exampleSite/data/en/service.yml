@@ -11,10 +11,10 @@ service:
     icon: ti-desktop
     content: TV Shows are available in HD Quality with low sizes so you can watch
       even with low bandwidth.
-  - name: Media &amp; Advertisement
-    icon: ti-blackboard
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - name: Anime
+    icon: ti-heart
+    content: A wide collection of anime is also available for you and it keeps on
+      growing!
   - name: Graphic Design
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
