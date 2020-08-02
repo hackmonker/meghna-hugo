@@ -7,9 +7,9 @@ funfacts:
   - title: Happy Users
     icon: ti-face-smile
     count: "15"
-  - title: Projects completed
+  - title: Movies
     icon: ti-archive
-    count: "350"
+    count: 500+
   - title: Positive feedback
     icon: ti-thumb-up
     count: "158"
