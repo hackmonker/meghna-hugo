@@ -25,7 +25,9 @@ pricing:
     - 5 requests per week
     - Higher priority to support
     - Special access to FHD media library.
-    button: ''
+    button:
+      label: Contact me
+      link: "#contact"
   - name: Platinum
     price: "₹650"
     unit: year
