@@ -6,7 +6,8 @@ portfolio:
   - name: Downloads
     image: ''
     image_webp: ''
-    categories: []
+    categories:
+    - Sites
     content: Going on a trip? Download your media and them with you!
     link: ''
   - name: Stream
