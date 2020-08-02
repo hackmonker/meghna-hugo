@@ -38,7 +38,7 @@ weight = "5"
 [[menu.main]]
 URL = "contact"
 name = "contact"
-weight = 7
+weight = "6"
 [[menu.static]]
 URL = ""
 name = "Hackmonker"
