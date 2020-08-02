@@ -13,7 +13,7 @@ contact:
     info: 'Email: monkflixofficial@gmail.com'
   contact_form:
     enable: true
-    form_action: "#"
+    form_action: https://getform.io/f/299c4007-9434-44c8-8edc-8ba608c63a51
     name: Your Name
     email: Your Email
     subject: Subject
