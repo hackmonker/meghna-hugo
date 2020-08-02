@@ -17,8 +17,8 @@ service:
       keeps on growing!
   - name: Music
     icon: ti-music
-    content: Music is available in Complete FLAC quality for you to enjoy. Stream
-      ur favorite music in lossless format for the first time and don't look back.
+    content: Ever heard of FLAC or Vinyl? No? Then stream ur favorite music in lossless
+      format for the first time and don't look back.
   - name: Audiobooks
     icon: ti-headphone-alt
     content: Listen to your favorite books and even the authors themselves reading
