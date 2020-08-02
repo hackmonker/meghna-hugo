@@ -9,8 +9,8 @@ service:
       on your connection.
   - name: TV Shows
     icon: ti-desktop
-    content: TV Shows are available in HD Quality with low sizes so you can watch
-      even with low bandwidth.
+    content: Binge watch your shows now in HD without a hassle even at low bandwidth.
+      Want that extra quality and size too? Ask away!
   - name: Anime
     icon: ti-heart
     content: A wide collection of anime is also available for you to stream and it
