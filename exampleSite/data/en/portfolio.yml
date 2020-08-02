@@ -3,6 +3,13 @@ portfolio:
   enable: true
   title: Sites Available
   portfolio_item:
+  - name: Downloads
+    image: ''
+    image_webp: ''
+    categories:
+    - sites
+    content: Going on a trip? Download your media and them with you!
+    link: ''
   - name: Stream
     image: images/portfolio/portfolio-2.jpg
     image_webp: images/portfolio/portfolio-2.webp
