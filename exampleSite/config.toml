@@ -40,7 +40,7 @@ URL = "contact"
 name = "contact"
 weight = 7
 [[menu.static]]
-URL = "https://themefisher.com/"
+URL = ""
 name = "Hackmonker"
 weight = 8
 [params]
