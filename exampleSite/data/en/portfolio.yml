@@ -3,12 +3,6 @@ portfolio:
   enable: true
   title: Sites Available
   portfolio_item:
-  - name: ''
-    image: ''
-    image_webp: ''
-    categories: ''
-    content: ''
-    link: ''
   - name: Tag Design
     image: images/portfolio/portfolio-2.jpg
     image_webp: images/portfolio/portfolio-2.webp
