@@ -20,33 +20,37 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
-URL = "contact"
-name = "contact"
-weight = 6
-[[menu.main]]
-URL = "blog"
-name = "blog"
-weight = 5
-[[menu.main]]
-URL = "pricing"
-name = "pricing"
-weight = 4
-[[menu.main]]
-URL = "team"
-name = "team"
-weight = 3
-[[menu.main]]
-URL = "portfolio"
-name = "portfolio"
-weight = 2
+URL = "about"
+name = "about"
+weight = 1
 [[menu.main]]
 URL = "services"
 name = "services"
-weight = 1
+weight = 2
+[[menu.main]]
+URL = "portfolio"
+name = "portfolio"
+weight = 3
+[[menu.main]]
+URL = "team"
+name = "team"
+weight = 4
+[[menu.main]]
+URL = "pricing"
+name = "pricing"
+weight = 5
+[[menu.main]]
+URL = "blog"
+name = "blog"
+weight = 6
+[[menu.main]]
+URL = "contact"
+name = "contact"
+weight = 7
 [[menu.static]]
 URL = "https://themefisher.com/"
-name = "hackmonker"
-weight = 1
+name = "themefisher"
+weight = 8
 [params]
 author = "hackmonker"
 description = "Responsive Multipurpose Parallax HTML5 Template"
@@ -54,7 +58,7 @@ google_analytics_id = ""
 logo = "images/logo.png"
 post_share = true
 [params.map]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
