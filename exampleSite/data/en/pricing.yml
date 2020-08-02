@@ -38,3 +38,4 @@ pricing:
     - Support me
     button:
       label: Signup
+      link: "#contact"
