@@ -6,6 +6,7 @@ portfolio:
   - name: Stream
     image: images/portfolio/portfolio-2.jpg
     image_webp: images/portfolio/portfolio-2.webp
-    categories: []
+    categories:
+    - Sites
     content: Stream Movies, Anime, Music, etc at a quality of your choice.
     link: "#"
