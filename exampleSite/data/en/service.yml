@@ -13,8 +13,8 @@ service:
       even with low bandwidth.
   - name: Anime
     icon: ti-heart
-    content: A wide collection of anime is also available for you and it keeps on
-      growing!
+    content: A wide collection of anime is also available for you to stream and it
+      keeps on growing!
   - name: Music
     icon: ti-music
     content: Music is available in Complete FLAC quality for you to enjoy. Stream
