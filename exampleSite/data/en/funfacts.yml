@@ -5,7 +5,7 @@ funfacts:
   bg_image_webp: images/backgrounds/bg-white-wall.webp
   counter_item:
   - title: Movies
-    icon: ti-archive
+    icon: ti-video-camera
     count: "1000"
   - title: Shows
     icon: ti-desktop
