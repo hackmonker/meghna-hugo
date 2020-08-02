@@ -3,17 +3,6 @@ pricing:
   enable: true
   title: Our Plans
   pricing_table:
-  - name: Gold
-    price: "₹60"
-    unit: month
-    services:
-    - Stream from all libraries
-    - Download from all libraries
-    - 1 account per user
-    - 5 requests per week
-    - Higher priority to support
-    - Special access to FHD media library.
-    button: ''
   - name: Silver
     price: "₹40"
     unit: month
@@ -26,3 +15,24 @@ pricing:
     button:
       label: Signup
       link: "#"
+  - name: Gold
+    price: "₹60"
+    unit: month
+    services:
+    - Stream from all libraries
+    - Download from all libraries
+    - 1 account per user
+    - 5 requests per week
+    - Higher priority to support
+    - Special access to FHD media library.
+    button: ''
+  - name: Platinum
+    price: "₹650"
+    unit: year
+    services:
+    - Access to all gold features
+    - 2 Accounts per user
+    - 10 Requests per week
+    - Support me
+    button:
+      label: Signup
