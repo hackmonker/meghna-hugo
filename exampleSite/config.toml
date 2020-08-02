@@ -41,7 +41,7 @@ name = "contact"
 weight = "6"
 [[menu.static]]
 URL = ""
-name = "Hackmonker"
+name = "hackmonker"
 weight = "7"
 [params]
 author = "hackmonker"
