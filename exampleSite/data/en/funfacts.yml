@@ -9,7 +9,7 @@ funfacts:
     count: "15"
   - title: Movies
     icon: ti-archive
-    count: 500+
+    count: "1000"
   - title: Positive feedback
     icon: ti-thumb-up
     count: "158"
