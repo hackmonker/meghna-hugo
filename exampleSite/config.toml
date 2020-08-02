@@ -21,7 +21,7 @@ languageName = "Fr"
 weight = 2
 [[menu.main]]
 URL = "services"
-name = "Offer"
+name = "service"
 weight = 2
 [[menu.main]]
 URL = "portfolio"
