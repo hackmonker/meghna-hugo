@@ -28,13 +28,13 @@ URL = "portfolio"
 name = "sites"
 weight = "3"
 [[menu.main]]
-URL = "pricing"
-name = "pricing"
-weight = "3"
-[[menu.main]]
 URL = "blog"
 name = "blog"
 weight = "4"
+[[menu.main]]
+URL = "pricing"
+name = "pricing"
+weight = "3"
 [[menu.main]]
 URL = "contact"
 name = "contact"
