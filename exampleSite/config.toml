@@ -93,5 +93,5 @@ link = "plugins/google-map/map.js"
 enable = true
 preloader = "/images/logo-2.png"
 [[params.social]]
-icon = "https://cdn.iconscout.com/icon/free/png-256/discord-1-555369.png"
+icon = "/images/discord.webp"
 link = "https://discord.gg/jgB58W3"
