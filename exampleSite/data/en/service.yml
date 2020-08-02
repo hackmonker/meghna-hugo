@@ -19,10 +19,10 @@ service:
     icon: ti-music
     content: Music is available in Complete FLAC quality for you to enjoy. Stream
       ur favorite music in lossless format for the first time and don't look back.
-  - name: Apps Development
-    icon: ti-package
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - name: Audiobooks
+    icon: ti-headphone-alt
+    content: Listen to your favorite books and even the authors themselves reading
+      them. Can't see your favorite book? Ask away!
   - name: Networking
     icon: ti-pulse
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
