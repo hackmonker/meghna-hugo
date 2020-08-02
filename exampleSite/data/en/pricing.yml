@@ -14,7 +14,7 @@ pricing:
     - Lower priority support
     button:
       label: Contact Us
-      link: "#contact"
+      link: contact
   - name: Gold
     price: "₹60"
     unit: month
