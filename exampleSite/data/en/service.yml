@@ -1,6 +1,6 @@
 ---
 service:
-  enable: true
+  enable: false
   title: Our Offers
   service_item:
   - name: Movies
