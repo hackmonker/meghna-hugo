@@ -47,7 +47,7 @@ weight = "6"
 author = "hackmonker"
 description = "Responsive Multipurpose Parallax HTML5 Template"
 google_analytics_id = ""
-logo = "images/preloader.png"
+logo = "images/logo.png"
 post_share = true
 social = []
 [params.map]
