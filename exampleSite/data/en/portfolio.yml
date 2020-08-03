@@ -1,7 +1,7 @@
 ---
 portfolio:
   enable: true
-  title: Sites Available
+  title: Links Available
   portfolio_item:
   - name: Stream
     image: "/images/stream.png"
