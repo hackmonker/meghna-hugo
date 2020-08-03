@@ -3,6 +3,13 @@ portfolio:
   enable: true
   title: Sites Available
   portfolio_item:
+  - name: Stream
+    image: "/images/jeshoots-com-ppyoqgszdm4-unsplash.jpg"
+    image_webp: ''
+    categories:
+    - Sites
+    content: Stream Movies, Anime, Music, etc at a quality of your choice.
+    link: "#"
   - name: Books
     image: ''
     image_webp: ''
@@ -18,10 +25,3 @@ portfolio:
     - Sites
     content: Going on a trip? Download your media and them with you!
     link: ''
-  - name: Stream
-    image: images/portfolio/portfolio-2.jpg
-    image_webp: images/portfolio/portfolio-2.webp
-    categories:
-    - Sites
-    content: Stream Movies, Anime, Music, etc at a quality of your choice.
-    link: "#"
