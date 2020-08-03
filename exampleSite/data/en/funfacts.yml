@@ -1,8 +1,8 @@
 ---
 funfacts:
   enable: true
-  bg_image: images/backgrounds/bg-white-wall.jpg
-  bg_image_webp: images/backgrounds/bg-white-wall.webp
+  bg_image: ''
+  bg_image_webp: "/images/testemonial.webp"
   counter_item:
   - title: Movies
     icon: ti-video-camera
