@@ -2,7 +2,7 @@
 testimonial:
   enable: true
   bg_image: "/images/javier-garcia-chavez-bdz3bzrde5g-unsplash.jpg"
-  bg_image_webp: ''
+  bg_image_webp: "/images/testemonial.webp"
   testimonial_item:
   - name: Jonathon Andrew
     image: images/client/client-1.jpg
