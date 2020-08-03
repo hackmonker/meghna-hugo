@@ -18,10 +18,10 @@ portfolio:
     content: Going on a trip? Download your media and them with you!
     link: https://download.monkflix.ga
   - name: Books
-    image: ''
-    image_webp: ''
+    image: "/images/books.png"
+    image_webp: "/images/books.webp"
     categories:
     - Sites
     content: Read or download ebooks on the fly. Own a kindle? Send the books directly
       to your kindle.
-    link: ''
+    link: https://books.monkflix.tk
