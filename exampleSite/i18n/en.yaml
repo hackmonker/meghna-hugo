@@ -18,7 +18,7 @@
 - id: services
   translation: Service
 - id: portfolio
-  translation: Sites
+  translation: Links
 - id: team
   translation: Team
 - id: pricing
