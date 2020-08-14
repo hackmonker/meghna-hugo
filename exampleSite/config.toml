@@ -19,35 +19,18 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
-[[menu.main]]
-URL = "blog"
-name = "blog"
-weight = 5
-[[menu.main]]
-URL = "pricing"
-name = "pricing"
-weight = 4
-[[menu.main]]
-URL = "team"
-name = "team"
-weight = 3
-[[menu.main]]
-URL = "portfolio"
-name = "portfolio"
-weight = 2
-[[menu.main]]
-URL = "services"
-name = "services"
-weight = 1
+[menu.main]
+URL = "contact"
+name = "contact"
+weight = 6
 [[menu.static]]
+URL = "links"
 name = "links"
-url = "https://www.google.com"
-weight = 2
+weight = "3"
 [[menu.static]]
-URL = "https://themefisher.com/"
+URL = "themefisher"
 name = "themefisher"
-url = "https://www.google.com"
-weight = 1
+weight = "6"
 [params]
 author = "hackmonker"
 description = "Stay Calm and Just Watch!"
