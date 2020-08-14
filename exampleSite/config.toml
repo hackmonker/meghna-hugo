@@ -26,11 +26,11 @@ weight = 3
 [[menu.static]]
 URL = "links"
 name = "links"
-weight = "6"
+weight = "5"
 [[menu.static]]
 URL = "themefisher"
 name = "themefisher"
-weight = "7"
+weight = "6"
 [params]
 author = "hackmonker"
 description = "Stay Calm and Just Watch!"
