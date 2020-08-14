@@ -24,7 +24,7 @@ URL = "services"
 name = "services"
 weight = "2"
 [[menu.main]]
-URL = "www.monkflix.ga"
+URL = "portfolio"
 name = "portfolio"
 weight = "3"
 [[menu.main]]
