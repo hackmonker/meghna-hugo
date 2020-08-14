@@ -34,12 +34,12 @@ weight = 1
 [[menu.static]]
 name = "links"
 url = "https://www.google.com"
-weight = 2
+weight = 1
 [[menu.static]]
 URL = "https://themefisher.com/"
 name = "themefisher"
 url = "https://www.google.com"
-weight = 1
+weight = 2
 [params]
 author = "hackmonker"
 description = "Stay Calm and Just Watch!"
