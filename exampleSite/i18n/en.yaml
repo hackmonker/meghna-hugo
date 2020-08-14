@@ -1,4 +1,6 @@
 ---
+- id: links
+  translation: Links
 - id: blogTitle
   translation: Latest Post
 - id: readMore
