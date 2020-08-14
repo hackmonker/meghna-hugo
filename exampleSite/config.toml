@@ -22,7 +22,7 @@ weight = 2
 [[menu.main]]
 URL = "blog"
 name = "blog"
-weight = 3
+weight = 4
 [[menu.main]]
 URL = "pricing"
 name = "pricing"
