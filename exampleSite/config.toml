@@ -42,7 +42,7 @@ name = "services"
 weight = 1
 [[menu.static]]
 URL = "https://themefisher.com/"
-name = "hackmonker"
+name = "themefisher"
 weight = 1
 [params]
 author = "hackmonker"
