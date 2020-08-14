@@ -1,7 +1,7 @@
 baseURL = "https://monkflix.netlify.app"
 disableLanguages = ["fr"]
 disqusShortname = ""
-paginate = "6"
+paginate = "10"
 summaryLength = "15"
 theme = "meghna-hugo"
 title = "Monkflix"
