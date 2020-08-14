@@ -19,10 +19,6 @@
   translation: About Us
 - id: services
   translation: Service
-- id: portfolio
-  translation: Links
-- id: team
-  translation: Team
 - id: pricing
   translation: Pricing
 - id: blog
