@@ -41,6 +41,10 @@ URL = "services"
 name = "services"
 weight = 1
 [[menu.static]]
+name = "links"
+url = "https://www.google.com"
+weight = 2
+[[menu.static]]
 URL = "https://themefisher.com/"
 name = "themefisher"
 url = "https://www.google.com"
