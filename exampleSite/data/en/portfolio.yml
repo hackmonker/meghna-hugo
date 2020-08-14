@@ -1,6 +1,6 @@
 ---
 portfolio:
-  enable: true
+  enable: false
   title: Links Available
   portfolio_item:
   - name: Stream
