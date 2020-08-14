@@ -30,7 +30,7 @@ weight = "4"
 [[menu.static]]
 URL = "themefisher"
 name = "themefisher"
-weight = "6"
+weight = "7"
 [params]
 author = "hackmonker"
 description = "Stay Calm and Just Watch!"
