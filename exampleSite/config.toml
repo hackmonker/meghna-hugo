@@ -24,7 +24,7 @@ URL = "contact"
 name = "contact"
 weight = 6
 [[menu.static]]
-URL = ""
+URL = "themefisher"
 name = "themefisher"
 weight = "6"
 [params]
