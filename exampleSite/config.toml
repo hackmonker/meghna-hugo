@@ -22,14 +22,10 @@ weight = 2
 [[menu.main]]
 URL = "blog"
 name = "blog"
-weight = 4
+weight = 3
 [[menu.main]]
 URL = "pricing"
 name = "pricing"
-weight = 3
-[[menu.main]]
-URL = "portfolio"
-name = "portfolio"
 weight = 2
 [[menu.main]]
 URL = "services"
