@@ -26,7 +26,7 @@ weight = 6
 [[menu.static]]
 URL = "links"
 name = "links"
-weight = "7"
+weight = "4"
 [[menu.static]]
 URL = "themefisher"
 name = "themefisher"
