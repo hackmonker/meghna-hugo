@@ -34,7 +34,6 @@ weight = 3
 [[menu.main]]
 URL = "portfolio"
 name = "portfolio"
-url = "https://www.monkflix.ga"
 weight = 2
 [[menu.main]]
 URL = "services"
