@@ -16,6 +16,7 @@ imagepost: []
 * **Use the search button to search a movie or show and click on the request button to request it**
 * **For Shows use the drop down button to specify which seasons you want. If it is a very big show. like the office, then it might go over your weekly limit. In such case, just request the 1st season and I will give the complete series. If it is small series then you can request the entire series, or particular seasons or episodes. Use the select button to specify.**
 * **Everyone has a weekly limit of 5 Movies and 30 episodes. It might decrease or increase depending on my time available.**
+* **Use the Books and Audio-books link at the top to request books.**
 
 ## Reporting an Issue
 
