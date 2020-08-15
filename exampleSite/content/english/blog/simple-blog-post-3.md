@@ -17,7 +17,7 @@ description: This is meta description
 
 Use the same account that was created for streaming
 
-![](/images/ezgif-com-gif-maker-1.webp)
+![](/images/olajhbc9jo-ha.png)
 
 ### 3. Search and Request
 
