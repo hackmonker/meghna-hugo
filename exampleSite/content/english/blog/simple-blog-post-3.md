@@ -2,7 +2,7 @@
 title: How to Request
 date: 2018-09-12T12:52:36.000+06:00
 image_webp: images/blog/blog-post-1.webp
-image: images/blog/blog-post-1.jpg
+image: "/images/firefox_st4lkvnraj.png"
 author: Hackmonker
 description: This is meta description
 
