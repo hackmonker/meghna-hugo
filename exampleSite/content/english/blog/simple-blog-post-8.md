@@ -5,7 +5,6 @@ image_webp: images/blog/blog-post-2.webp
 image: images/blog/blog-post-2.jpg
 author: Hackmonker
 description: This is meta description
-draft: true
 
 ---
 You can either download or stream from monkflix. Here we will cover any doubts about how to download.
