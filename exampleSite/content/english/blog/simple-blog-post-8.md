@@ -1,6 +1,6 @@
 ---
 title: How to Download Media
-date: 2020-08-17T07:51:12+00:00
+date: 2020-08-17T06:51:12+00:00
 image_webp: images/blog/blog-post-2.webp
 image: images/blog/blog-post-2.jpg
 author: Hackmonker
